@@ -3,7 +3,7 @@ const sanpham = [
     {id: 2,name: "enchanted golden apple",gia: "20 diamond",img: "img/enchantapple.gif",chitiet: "ăn vào no bụng"},
     {id: 3,name: "elytra",gia: "32 diamond",img: "img/Elytra.jpg",chitiet: "giúp người chơi bay"},
     {id: 4,name: "mace enchanted",gia: "67 diamond",img: "img/mace.gif",chitiet: "sát thương theo độ cao của người chơi"},
-    {id: 5,name: "pisston",gia: "67 water",img: "img/End Rod.jpg",chitiet: "sheep toy"},
+    {id: 5,name: "light",gia: "67 iron",img: "img/End Rod.jpg",chitiet: "toy"},
 ];
 function inanh(){
     const myDiv = document.createElement("div");
